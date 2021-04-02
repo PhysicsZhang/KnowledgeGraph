@@ -1,158 +1,191 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T15:32:29.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="DCFKW_l3-AOw00RTSE9O" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T00:55:45.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="r28e5wztbI4_I5MQ0mBH" version="14.5.4" type="github">
   <diagram id="z3kckBgGGPqUcNnE8B0y" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fUgJQGygiqNxLLESphQV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-1" target="fUgJQGygiqNxLLESphQV-3">
+        <mxCell id="fUgJQGygiqNxLLESphQV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-1" target="fUgJQGygiqNxLLESphQV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-1" value="空间经济和地理学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-1" value="空间经济和地理学" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-2" target="fUgJQGygiqNxLLESphQV-1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-2" target="fUgJQGygiqNxLLESphQV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-2" value="为什么要研究空间经济现象？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-2" value="为什么要研究空间经济现象？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="10" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-3" target="fUgJQGygiqNxLLESphQV-4">
+        <mxCell id="fUgJQGygiqNxLLESphQV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-3" target="fUgJQGygiqNxLLESphQV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-3" value="空间经济和经济学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-3" value="空间经济和经济学" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-4" target="fUgJQGygiqNxLLESphQV-5">
+        <mxCell id="fUgJQGygiqNxLLESphQV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-4" target="fUgJQGygiqNxLLESphQV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-4" value="经济活动区位和影响因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-4" value="经济活动区位和影响因素" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-5" target="fUgJQGygiqNxLLESphQV-7">
+        <mxCell id="fUgJQGygiqNxLLESphQV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-5" target="fUgJQGygiqNxLLESphQV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-5" value="单一部门企业区位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-5" value="单一部门企业区位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="330" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-7" target="fUgJQGygiqNxLLESphQV-8">
+        <mxCell id="fUgJQGygiqNxLLESphQV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-7" target="fUgJQGygiqNxLLESphQV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-7" value="多部门企业区位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-7" value="多部门企业区位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="410" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-8" target="fUgJQGygiqNxLLESphQV-10">
+        <mxCell id="fUgJQGygiqNxLLESphQV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-8" target="fUgJQGygiqNxLLESphQV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-8" value="产业经济及其空间分布规律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-8" value="产业经济及其空间分布规律" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="490" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-10" target="fUgJQGygiqNxLLESphQV-11">
+        <mxCell id="fUgJQGygiqNxLLESphQV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-10" target="fUgJQGygiqNxLLESphQV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-10" value="区域和区域发展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-10" value="区域和区域发展" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-11" target="fUgJQGygiqNxLLESphQV-13">
+        <mxCell id="fUgJQGygiqNxLLESphQV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-11" target="fUgJQGygiqNxLLESphQV-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-11" value="区域产业结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-11" value="区域产业结构" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="650" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-13" target="fUgJQGygiqNxLLESphQV-14">
+        <mxCell id="fUgJQGygiqNxLLESphQV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-13" target="fUgJQGygiqNxLLESphQV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-13" value="区域空间结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-13" value="区域空间结构" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="730" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-14" target="fUgJQGygiqNxLLESphQV-16">
+        <mxCell id="fUgJQGygiqNxLLESphQV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-14" target="fUgJQGygiqNxLLESphQV-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-14" value="区际空间组织" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-14" value="区际空间组织" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="810" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-16" target="fUgJQGygiqNxLLESphQV-17">
+        <mxCell id="fUgJQGygiqNxLLESphQV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-16" target="fUgJQGygiqNxLLESphQV-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-16" value="区域分析和区域规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-16" value="区域分析和区域规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="690" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-17" target="fUgJQGygiqNxLLESphQV-18">
+        <mxCell id="fUgJQGygiqNxLLESphQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-17" target="fUgJQGygiqNxLLESphQV-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-17" value="区域政策和区域治理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-17" value="区域政策和区域治理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="610" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-18" target="fUgJQGygiqNxLLESphQV-19">
+        <mxCell id="fUgJQGygiqNxLLESphQV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-18" target="fUgJQGygiqNxLLESphQV-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-18" value="城市经济" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-18" value="城市经济" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="530" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-19" target="fUgJQGygiqNxLLESphQV-20">
+        <mxCell id="fUgJQGygiqNxLLESphQV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-19" target="fUgJQGygiqNxLLESphQV-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-19" value="城乡边缘区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-19" value="城乡边缘区" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="450" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-20" target="fUgJQGygiqNxLLESphQV-21">
+        <mxCell id="fUgJQGygiqNxLLESphQV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-20" target="fUgJQGygiqNxLLESphQV-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-20" value="乡村经济" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-20" value="乡村经济" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="370" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fUgJQGygiqNxLLESphQV-21" target="fUgJQGygiqNxLLESphQV-22">
+        <mxCell id="fUgJQGygiqNxLLESphQV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fUgJQGygiqNxLLESphQV-21" target="fUgJQGygiqNxLLESphQV-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-21" value="国际贸易和跨国公司区位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-21" value="国际贸易和跨国公司区位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-22" value="经济全球化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-22" value="经济全球化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="210" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-41" value="引论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-41" value="引论" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="30" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-42" value="背景介绍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-42" value="背景介绍" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-43" value="要素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-43" value="要素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="265" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-44" value="企业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-44" value="企业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="385" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-45" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-45" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="80" as="sourcePoint" />
             <mxPoint x="480" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-46" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-46" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="239.5" as="sourcePoint" />
             <mxPoint x="480" y="239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-47" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-47" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="319.5" as="sourcePoint" />
             <mxPoint x="480" y="319.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-48" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-48" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="479.5" as="sourcePoint" />
             <mxPoint x="480" y="479.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-49" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-49" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="559.5" as="sourcePoint" />
             <mxPoint x="480" y="559.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUgJQGygiqNxLLESphQV-50" value="产业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="fUgJQGygiqNxLLESphQV-50" value="产业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-2" value="区域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="880" as="sourcePoint" />
+            <mxPoint x="690" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-5" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="599.5" as="sourcePoint" />
+            <mxPoint x="690" y="599.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-6" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="359.5" as="sourcePoint" />
+            <mxPoint x="690" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-11" value="区域问题一般方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="652.5" width="60" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-12" value="城市及区域城镇体系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="457.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-13" value="国际贸易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="265" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
