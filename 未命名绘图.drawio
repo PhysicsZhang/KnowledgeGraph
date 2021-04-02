@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T00:55:45.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="r28e5wztbI4_I5MQ0mBH" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T01:00:03.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="MHAmIjKhs6NWYmIve_7H" version="14.5.4" type="github">
   <diagram id="z3kckBgGGPqUcNnE8B0y" name="第 1 页">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,17 +175,29 @@
             <mxPoint x="690" y="359.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bd2qk9y_xDuyMpixt-5B-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="600" width="20" height="120" as="geometry" />
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="20" height="800" as="geometry" />
         </mxCell>
         <mxCell id="bd2qk9y_xDuyMpixt-5B-11" value="区域问题一般方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="652.5" width="60" height="55" as="geometry" />
+          <mxGeometry x="690" y="652.5" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="bd2qk9y_xDuyMpixt-5B-12" value="城市及区域城镇体系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="457.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="690" y="457.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bd2qk9y_xDuyMpixt-5B-13" value="国际贸易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="265" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-14" value="&lt;b&gt;空间经济理论&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="392.5" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="20" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-16" value="&lt;b&gt;空间经济理论的应用&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="401.25" width="23" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bd2qk9y_xDuyMpixt-5B-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;空间经济理论及其应用&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="40" width="162.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
