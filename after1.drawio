@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T14:34:33.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="QuKfXpAr4SnE8GYfiu7u" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-14T07:56:02.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" etag="B4pjpaBDaAhri2JXTBK_" version="14.9.6" type="github">
   <diagram id="3PVPKGMuk8iZUWDpncd-" name="第 1 页">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,131 @@
         </mxCell>
         <mxCell id="21xIeza0TOriAtmEyd8c-83" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="1971" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-2" target="zxNHMKGxiTFcUSZEscb6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-2" value="确定发射机&lt;br&gt;（根节点）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-3" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-5" target="zxNHMKGxiTFcUSZEscb6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-4" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-5" target="zxNHMKGxiTFcUSZEscb6-23">
+          <mxGeometry x="-0.4118" relative="1" as="geometry">
+            <mxPoint x="620" y="2510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2395" />
+              <mxPoint x="550" y="2520" />
+              <mxPoint x="480" y="2520" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-5" value="发现可达路径" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-7" target="zxNHMKGxiTFcUSZEscb6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-7" value="储存当前路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-11" target="zxNHMKGxiTFcUSZEscb6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="2280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-13" target="zxNHMKGxiTFcUSZEscb6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-13" value="继续寻找所有有效镜像节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-17" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-18" target="zxNHMKGxiTFcUSZEscb6-20">
+          <mxGeometry x="-0.4737" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-36" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-18" target="zxNHMKGxiTFcUSZEscb6-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="2883" />
+              <mxPoint x="560" y="2660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-18" value="剩余可能的镜像节点&lt;br&gt;和绕射节点判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2842.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-20" target="zxNHMKGxiTFcUSZEscb6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-20" value="指向下一个节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2951" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="3000" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-26" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-23" target="zxNHMKGxiTFcUSZEscb6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-28" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-23" target="zxNHMKGxiTFcUSZEscb6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-23" value="判断反射&lt;br&gt;和绕射次数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-27" target="zxNHMKGxiTFcUSZEscb6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-27" value="回溯父亲节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-29" target="zxNHMKGxiTFcUSZEscb6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-29" value="判断绕射次数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2700" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-31" target="zxNHMKGxiTFcUSZEscb6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-31" value="继续寻找所有有效绕射节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-37" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-34" target="zxNHMKGxiTFcUSZEscb6-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="2803" />
+              <mxPoint x="570" y="2966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-34" target="zxNHMKGxiTFcUSZEscb6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-34" value="所有的镜像节点和绕射&lt;br&gt;节点是否被搜索完" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2762.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-40" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-38" target="zxNHMKGxiTFcUSZEscb6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-41" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zxNHMKGxiTFcUSZEscb6-38" target="zxNHMKGxiTFcUSZEscb6-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="2923" />
+              <mxPoint x="740" y="2660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxNHMKGxiTFcUSZEscb6-38" value="是否指向根节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2898" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
