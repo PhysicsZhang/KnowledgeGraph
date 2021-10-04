@@ -1,32 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T07:43:57.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="ibXpK_auUhxXDlo_HUPB" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T08:33:53.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="cUQ7ORtcGMyUIunUYSr5" version="15.4.1" type="github">
   <diagram id="SCdOJYy6eVbEw4BdUyUy" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0nUZ0BLNFSKkuJVxelMu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vRnHjVc-0H9g-9koQJ-1" target="0nUZ0BLNFSKkuJVxelMu-1">
+        <mxCell id="0nUZ0BLNFSKkuJVxelMu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i_vRnHjVc-0H9g-9koQJ-1" target="0nUZ0BLNFSKkuJVxelMu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0nUZ0BLNFSKkuJVxelMu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vRnHjVc-0H9g-9koQJ-1" target="0nUZ0BLNFSKkuJVxelMu-3">
+        <mxCell id="0nUZ0BLNFSKkuJVxelMu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i_vRnHjVc-0H9g-9koQJ-1" target="0nUZ0BLNFSKkuJVxelMu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vRnHjVc-0H9g-9koQJ-1" value="数字图像处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vRnHjVc-0H9g-9koQJ-2" value="数字图像的获取&lt;br&gt;输入" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="i_vRnHjVc-0H9g-9koQJ-2" value="数字图像基础和图像获取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vRnHjVc-0H9g-9koQJ-3" value="数字图像的输出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="i_vRnHjVc-0H9g-9koQJ-3" value="数字图像表示和描述" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vRnHjVc-0H9g-9koQJ-4" value="数字图像的存储" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="i_vRnHjVc-0H9g-9koQJ-4" value="灰度变换与空间滤波（图像增强）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0nUZ0BLNFSKkuJVxelMu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0nUZ0BLNFSKkuJVxelMu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0nUZ0BLNFSKkuJVxelMu-3" value="硬件和软件支持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0nUZ0BLNFSKkuJVxelMu-3" value="硬件和软件支持" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aC7-BGGuY2ZYYntrLrLF-1" value="变化检测、目标识别和计算机视觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aC7-BGGuY2ZYYntrLrLF-2" value="频率滤波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
