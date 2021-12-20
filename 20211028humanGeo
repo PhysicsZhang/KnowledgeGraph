@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T15:20:22.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="Br0nP4G6XfU-bb4JhIsH" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T06:29:20.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="Srj_0UV0v_k2C8lcklZ9" version="15.9.6" type="github">
   <diagram id="xGitQ1rLpILmS32uciYm" name="第 1 页">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,301 +354,481 @@
         <mxCell id="GjgmahWMmVsJi49teC5u-19" value="&lt;b&gt;建筑学、土地研究&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="630" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-2" target="e6AqZtERoDtFZh0hGoBN-5">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-2" target="e6AqZtERoDtFZh0hGoBN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-2" value="1人—地相互作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-2" value="1人—地相互作用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-3" value="&lt;b&gt;地理学&lt;br&gt;人文地理学部分&lt;br&gt;暂定三十讲&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-3" value="&lt;b&gt;地理学&lt;br&gt;人文地理学部分&lt;br&gt;暂定三十讲&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-5" target="e6AqZtERoDtFZh0hGoBN-7">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-5" target="e6AqZtERoDtFZh0hGoBN-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-5" value="2人类起源和早期文明发展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-5" value="2人类起源和早期文明发展" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-7" target="e6AqZtERoDtFZh0hGoBN-14">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-7" target="e6AqZtERoDtFZh0hGoBN-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-7" value="3从资本主义到当代社会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-7" value="3从资本主义到当代社会" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="150" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-9" value="人类历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-9" value="人类历史" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-10" value="人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-10" value="人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-11" value="地方和交流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-11" value="地方和交流" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-600" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-14" target="e6AqZtERoDtFZh0hGoBN-17">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-14" target="e6AqZtERoDtFZh0hGoBN-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-14" target="e6AqZtERoDtFZh0hGoBN-10">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-14" target="e6AqZtERoDtFZh0hGoBN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-14" value="4人：意识、行为和环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-14" value="4人：意识、行为和环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-17" target="e6AqZtERoDtFZh0hGoBN-25">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-17" target="e6AqZtERoDtFZh0hGoBN-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-17">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-480" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-17" value="5人：社会关系和社会结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-17" value="5人：社会关系和社会结构" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-18" value="经济地理学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-18" value="经济地理学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-19" value="政治地理学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-19" value="政治地理学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-615" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-20" value="社会与文化地理学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-20" value="社会与文化地理学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="2065" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-22" value="30全球化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-22" value="30全球化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-25" target="e6AqZtERoDtFZh0hGoBN-10">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-25" target="e6AqZtERoDtFZh0hGoBN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-25" target="e6AqZtERoDtFZh0hGoBN-29">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-25" target="e6AqZtERoDtFZh0hGoBN-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-25" value="6人口变化和地理环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-25" value="6人口变化和地理环境" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-26" value="社会理论的基本概念和方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-26" value="社会理论的基本概念和方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-690" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-29" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-29" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-29" target="e6AqZtERoDtFZh0hGoBN-32">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-29" target="e6AqZtERoDtFZh0hGoBN-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-29" value="7城市空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-29" value="7城市空间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-32" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-32" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-32" target="e6AqZtERoDtFZh0hGoBN-35">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-32" target="e6AqZtERoDtFZh0hGoBN-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-32" value="8建筑和土地利用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-32" value="8建筑和土地利用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-35" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-35" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-35" target="e6AqZtERoDtFZh0hGoBN-38">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-35" target="e6AqZtERoDtFZh0hGoBN-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-35" value="9粮食、农业、乡村" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-35" value="9粮食、农业、乡村" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-38" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-38" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-38" target="e6AqZtERoDtFZh0hGoBN-42">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-38" target="e6AqZtERoDtFZh0hGoBN-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-38" value="10作为媒介的空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-38" value="10作为媒介的空间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-39" value="(如何衔接好传统的空间相互作用空间扩散与传播地理学以及交通运输地理学？)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-39" value="(如何衔接好传统的空间相互作用空间扩散与传播地理学以及交通运输地理学？)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-615" y="850" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-42" target="e6AqZtERoDtFZh0hGoBN-45">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-42" target="e6AqZtERoDtFZh0hGoBN-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-42" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-42" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-42" value="11语言及其空间分布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-42" value="11语言及其空间分布" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-45" target="e6AqZtERoDtFZh0hGoBN-49">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-45" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-45" target="e6AqZtERoDtFZh0hGoBN-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-45" value="12交通运输" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-45" value="12交通运输" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-46" value="专题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-46" value="专题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-615" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-49" target="e6AqZtERoDtFZh0hGoBN-52">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" target="e6AqZtERoDtFZh0hGoBN-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="e6AqZtERoDtFZh0hGoBN-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-52" target="e6AqZtERoDtFZh0hGoBN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-49" target="e6AqZtERoDtFZh0hGoBN-11">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-52" target="e6AqZtERoDtFZh0hGoBN-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-49" value="13赛博空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1060" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-52" target="e6AqZtERoDtFZh0hGoBN-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-52" target="e6AqZtERoDtFZh0hGoBN-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-52" value="14经济活动和区位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-52" value="14经济活动和区位" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-55" target="e6AqZtERoDtFZh0hGoBN-18">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-55" target="e6AqZtERoDtFZh0hGoBN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-55" target="e6AqZtERoDtFZh0hGoBN-58">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-55" target="e6AqZtERoDtFZh0hGoBN-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-55" value="15空间不平等&lt;br&gt;（市场和公共部门）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-55" value="15空间不平等&lt;br&gt;（市场和公共部门）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-58" target="e6AqZtERoDtFZh0hGoBN-18">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-58" target="e6AqZtERoDtFZh0hGoBN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-58" target="e6AqZtERoDtFZh0hGoBN-61">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-58" target="e6AqZtERoDtFZh0hGoBN-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-58" value="16产业结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-58" value="16产业结构" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-61" target="e6AqZtERoDtFZh0hGoBN-64">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-61" target="e6AqZtERoDtFZh0hGoBN-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-61" target="e6AqZtERoDtFZh0hGoBN-18">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-61" target="e6AqZtERoDtFZh0hGoBN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-61" value="17空间计量模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-61" value="17空间计量模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-64" target="e6AqZtERoDtFZh0hGoBN-67">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-64" target="e6AqZtERoDtFZh0hGoBN-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-64" target="e6AqZtERoDtFZh0hGoBN-18">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-64" target="e6AqZtERoDtFZh0hGoBN-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-64" value="18区域城镇体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-64" value="18区域城镇体系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-67" target="e6AqZtERoDtFZh0hGoBN-19">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-67" target="e6AqZtERoDtFZh0hGoBN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-67" target="e6AqZtERoDtFZh0hGoBN-70">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-67" target="e6AqZtERoDtFZh0hGoBN-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-67" value="19权力和空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-67" value="19权力和空间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-70" target="e6AqZtERoDtFZh0hGoBN-73">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-70" target="e6AqZtERoDtFZh0hGoBN-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-70" target="e6AqZtERoDtFZh0hGoBN-19">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-70" target="e6AqZtERoDtFZh0hGoBN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-70" value="20国家和族群&lt;br&gt;（抑或反之？）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-70" value="20国家和族群&lt;br&gt;（抑或反之？）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-73" target="e6AqZtERoDtFZh0hGoBN-76">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-73" target="e6AqZtERoDtFZh0hGoBN-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-73" target="e6AqZtERoDtFZh0hGoBN-19">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-73" target="e6AqZtERoDtFZh0hGoBN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-73" value="21军事地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-73" value="21军事地理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-76" target="e6AqZtERoDtFZh0hGoBN-79">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-76" target="e6AqZtERoDtFZh0hGoBN-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-76" target="e6AqZtERoDtFZh0hGoBN-19">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-76" target="e6AqZtERoDtFZh0hGoBN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-76" value="22国际地缘政治格局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-76" value="22国际地缘政治格局" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-79" target="e6AqZtERoDtFZh0hGoBN-83">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-79" target="e6AqZtERoDtFZh0hGoBN-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-79" target="e6AqZtERoDtFZh0hGoBN-20">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-79" target="e6AqZtERoDtFZh0hGoBN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-79" value="23文化和景观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-79" value="23文化和景观" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-80" value="搞得不好，避免直接出现地理，同时和地理学有紧密联系，22就需要改改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-80" value="搞得不好，避免直接出现地理，同时和地理学有紧密联系，22就需要改改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-630" y="2135" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-83" target="e6AqZtERoDtFZh0hGoBN-86">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-83" target="e6AqZtERoDtFZh0hGoBN-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-83" target="e6AqZtERoDtFZh0hGoBN-20">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-83" target="e6AqZtERoDtFZh0hGoBN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-83" value="24宗教地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-83" value="24宗教地理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-86" target="e6AqZtERoDtFZh0hGoBN-89">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-86" target="e6AqZtERoDtFZh0hGoBN-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-86" target="e6AqZtERoDtFZh0hGoBN-20">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-86" target="e6AqZtERoDtFZh0hGoBN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-86" value="25社会地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-86" value="25社会地理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-89" target="e6AqZtERoDtFZh0hGoBN-92">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-89" target="e6AqZtERoDtFZh0hGoBN-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-89" target="e6AqZtERoDtFZh0hGoBN-20">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-89" target="e6AqZtERoDtFZh0hGoBN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-89" value="26作为文化的科学和技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-89" value="26作为文化的科学和技术" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-92" target="e6AqZtERoDtFZh0hGoBN-95">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-92" target="e6AqZtERoDtFZh0hGoBN-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-92" target="e6AqZtERoDtFZh0hGoBN-46">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-92" target="e6AqZtERoDtFZh0hGoBN-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-92" value="27历史地理学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-92" value="27历史地理学" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-95" target="e6AqZtERoDtFZh0hGoBN-46">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-95" target="e6AqZtERoDtFZh0hGoBN-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-95" target="e6AqZtERoDtFZh0hGoBN-107">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-95" target="e6AqZtERoDtFZh0hGoBN-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-95" value="28区域地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-95" value="28区域地理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-107" target="e6AqZtERoDtFZh0hGoBN-46">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-107" target="e6AqZtERoDtFZh0hGoBN-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="e6AqZtERoDtFZh0hGoBN-107" target="e6AqZtERoDtFZh0hGoBN-22">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="e6AqZtERoDtFZh0hGoBN-107" target="e6AqZtERoDtFZh0hGoBN-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-107" value="29城市和区域规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-107" value="29城市和区域规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6AqZtERoDtFZh0hGoBN-111" value="把这俩移到前面？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e6AqZtERoDtFZh0hGoBN-111" value="把这俩移到前面？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-310" y="2400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-1" value="13赛博空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-184" target="c6TpCU8g4kDGcTNtc4ym-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-184" value="1人—地相互作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-186" target="c6TpCU8g4kDGcTNtc4ym-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-186" value="2人类起源和早期文明发展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-188" target="c6TpCU8g4kDGcTNtc4ym-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-188" value="3从资本主义到当代社会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-190" target="c6TpCU8g4kDGcTNtc4ym-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-190" value="4人：意识、行为和环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-192" target="c6TpCU8g4kDGcTNtc4ym-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-192" value="5人：社会关系和社会结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-193" value="30全球化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-195" target="c6TpCU8g4kDGcTNtc4ym-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-195" value="6人口变化和地理环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-197" target="c6TpCU8g4kDGcTNtc4ym-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-197" value="7城市空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-199" target="c6TpCU8g4kDGcTNtc4ym-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-199" value="8建筑和土地利用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-201" target="c6TpCU8g4kDGcTNtc4ym-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-201" value="9粮食、农业、乡村" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-203" target="c6TpCU8g4kDGcTNtc4ym-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-203" value="10作为媒介的空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-205" target="c6TpCU8g4kDGcTNtc4ym-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-205" value="11语言及其空间分布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-207" target="c6TpCU8g4kDGcTNtc4ym-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-207" value="12交通运输" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-210" target="c6TpCU8g4kDGcTNtc4ym-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-210" value="13经济活动和区位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-212" target="c6TpCU8g4kDGcTNtc4ym-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-212" value="14空间不平等&lt;br&gt;（市场和公共部门）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-214" target="c6TpCU8g4kDGcTNtc4ym-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-214" value="15产业结构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-218" target="c6TpCU8g4kDGcTNtc4ym-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-218" value="16权力和空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-220" target="c6TpCU8g4kDGcTNtc4ym-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-220" value="17区域城镇体系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-222" target="c6TpCU8g4kDGcTNtc4ym-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-222" value="19国家和族群&lt;br&gt;（抑或反之？）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1814" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-224" target="c6TpCU8g4kDGcTNtc4ym-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-224" value="20军事地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1898" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-230" target="c6TpCU8g4kDGcTNtc4ym-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-230" value="24宗教地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-232" target="c6TpCU8g4kDGcTNtc4ym-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-232" value="26社会地理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-234" target="c6TpCU8g4kDGcTNtc4ym-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-234" value="27作为文化的科学和技术" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-240" target="c6TpCU8g4kDGcTNtc4ym-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-240" value="29国际地缘政治格局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-243" value="&lt;b&gt;地理学&lt;br&gt;人文地理学部分&lt;br&gt;暂定三十讲&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-246" target="c6TpCU8g4kDGcTNtc4ym-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-246" value="18专题：城市和区域规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-249" target="c6TpCU8g4kDGcTNtc4ym-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-249" value="21专题：历史地理学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-251" target="c6TpCU8g4kDGcTNtc4ym-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-251" value="22文化和景观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-254" target="c6TpCU8g4kDGcTNtc4ym-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-254" value="28赛博空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="c6TpCU8g4kDGcTNtc4ym-255" target="c6TpCU8g4kDGcTNtc4ym-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6TpCU8g4kDGcTNtc4ym-255" value="25民俗和娱乐文化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
