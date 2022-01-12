@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T01:23:37.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" version="16.2.4" etag="-vIEqV6PdwxvE48tmDGX" type="github"><diagram id="mFn7-VX7SHAGRaktWoVh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-12T01:45:09.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="dJlYRUoJTu6ARlrxr4eb" version="16.2.4" type="github">
+  <diagram id="mFn7-VX7SHAGRaktWoVh" name="第 1 页">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#d6b656;endSize=3;fillColor=#fff2cc;" edge="1" parent="1" source="bYA90s2k-cZVJ5rgxApx-7" target="bYA90s2k-cZVJ5rgxApx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#d6b656;endSize=3;fillColor=#fff2cc;" edge="1" parent="1" source="bYA90s2k-cZVJ5rgxApx-7" target="bYA90s2k-cZVJ5rgxApx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#d6b656;endArrow=classic;endFill=1;endSize=3;fillColor=#fff2cc;" edge="1" parent="1" source="bYA90s2k-cZVJ5rgxApx-7" target="bYA90s2k-cZVJ5rgxApx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="130" y="137.5" width="410" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;influence_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;full_music_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;data_by_artist&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;data_by_year&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="410" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-16" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#994c00&quot;&gt;Musical Influence Network&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="220" width="155" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-17" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#994c00&quot;&gt;Music Evolution &amp;amp; Revolution&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="420" width="155" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-18" value="&lt;font color=&quot;#994c00&quot; face=&quot;Times New Roman&quot;&gt;Music&amp;nbsp;Similarity&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="310" width="155" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-19" value="PageRank Algorithm" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-20" value="Social Network Analysis of Music" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-21" value="Global Similarity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-22" value="Partial Similarity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bYA90s2k-cZVJ5rgxApx-23" value="Similarity over time" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="370" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
