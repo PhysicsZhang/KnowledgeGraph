@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T02:53:32.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="6_l5MFWNpqvp5elgQTUY" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T03:06:01.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="qFHi1vC9ADEcJZJSnMZE" version="16.5.4" type="github">
   <diagram id="putLWAvhO6hy7_kN-I-T" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="Ji4NS8f-4CZPtjTMTRaq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Ji4NS8f-4CZPtjTMTRaq-1" target="Ji4NS8f-4CZPtjTMTRaq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-1" value="数据：沙子和水的物理参量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="150" height="50" as="geometry" />
+        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-1" value="数据：&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.不同区域⼀次性塑料制品产量&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.塑料原材料数据和利用率&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3.人口、GDP等社会经济数据&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4.环境指标&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ji4NS8f-4CZPtjTMTRaq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="Ji4NS8f-4CZPtjTMTRaq-2" target="Ji4NS8f-4CZPtjTMTRaq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;物理&lt;/b&gt;模型：&lt;/font&gt;&lt;br&gt;1.三维几何形状&lt;br&gt;2.水沙比例优化&lt;br&gt;3.考虑其他因素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;运筹学&lt;/b&gt;模型：&lt;/font&gt;&lt;br&gt;⼀次性塑料制品的使用额度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-3" value="考虑&lt;br&gt;1.最佳三维⼏何形状&lt;br&gt;2.水沙比例的敏感性分析&lt;br&gt;3.一页宣传论文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="350" width="150" height="60" as="geometry" />
+        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-3" value="考虑&lt;br&gt;1.⼀次性塑料产品废物的最⼤⽔平和最小水平估计&lt;br&gt;2.全球塑料利用的空间差异&lt;br&gt;3.塑料对环境的影响&lt;br&gt;4.减少塑料使用政策目标的制定" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;难点：如何分析建立物理模型，找到合适的微分方程描述；3维模型怎样可视化更美观&lt;br&gt;&lt;br&gt;方法：微分方程，元胞自动机，有限元分析，神经网络优化&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Ji4NS8f-4CZPtjTMTRaq-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;难点：如何找到合适的数据，选取哪些数据建立模型，塑料对环境的影响如何量化，各方面详细讨论&lt;br&gt;&lt;br&gt;方法：主成分分析，AHP，GE矩阵，动态优化&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
